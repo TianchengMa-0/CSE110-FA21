@@ -1,3 +1,0 @@
-Name: Tiancheng Ma
-PID: A15419480
-.gitignore
