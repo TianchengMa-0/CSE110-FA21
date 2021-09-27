@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+Picture
 
-You can use the [editor on GitHub](https://github.com/TianchengMa-0/CSE110-FA21/edit/markdown/docs/index.md) to maintain and preview the content for your website in Markdown files.
+![image](picture.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.Heading
+# This is Heading
 
-### Markdown
+2.Styling text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**This is bold**
 
-```markdown
-Syntax highlighted code block
+*This is Italic*
 
-# Header 1
-## Header 2
-### Header 3
+~~This is mistaken text~~
 
-- Bulleted
-- List
+**This text is really _NOT_ important**
 
-1. Numbered
-2. List
+***This text is bold and Italic***
 
-**Bold** and _Italic_ and `Code` text
+3.Quoting text
 
-[Link](url) and ![Image](src)
+Yasuo once said:
+>Death is like the wind, always by my side.
+
+4.Quoting Code
+
+This is `quoting code`
+
+These are:
+```
+distinct
+quoting
+block
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5.External Links
 
-### Jekyll Themes
+This site is built using [Google](https://www.google.com/?hl=zh_CN)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TianchengMa-0/CSE110-FA21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+6.Section Links
 
-### Support or Contact
+[a section link](https://www.bilibili.com#section-1)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+7.Relative links
+
+[a relative link](otherfile.md)
+
+8.Unordered List
+
+- B
+- C
+- D
+- E
+
+9.ordered list
+
+1. first
+2. second
+3. third
+
+10.task list
+
+- [ ] not complete
+- [x] complete
+
+
+
+
+
+
+
